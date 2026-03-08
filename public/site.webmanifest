@@ -1,0 +1,17 @@
+{
+  "name": "Averix Capital",
+  "short_name": "Averix",
+  "description": "Financial clarity for growing companies across India.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0B1F3B",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
